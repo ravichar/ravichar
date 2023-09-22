@@ -1,6 +1,3 @@
-### Hi there 👋
-
-<!--
 class SoftwareDeveloper:
     def __init__(self):
         self.name = "Ravi Char"
@@ -22,4 +19,3 @@ developer = SoftwareDeveloper()
 
 # Call the greet method
 developer.greet()
--->
