@@ -1,6 +1,6 @@
 ### Hi there 👋, My name is Ravi Char
 #### Cybersecurity & Software Development Professional
-![Cybersecurity & Software Development Professional](https://pbs.twimg.com/profile_images/921896092299431937/hznGys6n_400x400.jpg)
+![Cybersecurity & Software Development Professional](https://media.licdn.com/dms/image/C4D03AQFrmi5VveWe_A/profile-displayphoto-shrink_800_800/0/1515623942609?e=1700697600&v=beta&t=2Cm9K5YuJGm8qeXoa6o7TgqtYD25K9t9Up4KrfoeR7I)
 
 I am from the Bay Area and have been in Software & Cybersecurity field over a decade.
 
