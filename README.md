@@ -1,5 +1,5 @@
 ### Hi there 👋, My name is Ravi Char
-![Ravi](https://twitter.com/ravichar/photo)
+![Ravi](https://twitter.com/ravichar/header_photo)
 
 ```
 class SoftwareDeveloper:
