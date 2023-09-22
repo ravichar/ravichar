@@ -17,7 +17,7 @@ class SoftwareDeveloper:
 
 # Create an instance of the SoftwareDeveloper class
 developer = SoftwareDeveloper()
-
 # Call the greet method
+'''
 developer.greet()
 [![Ravi's GitHub stats](https://github-readme-stats.vercel.app/api?username=ravichar)](https://github.com/ravichar/github-readme-stats)
