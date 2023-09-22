@@ -1,11 +1,5 @@
 ### Hi there 👋, My name is Ravi Char
-![I am GitHub Readme Generator's creator](https://twitter.com/ravichar/photo)
-
-I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
-
-Skills: Cyber Security / Cloud  /  DevOps/ Python / Java  /  C  /
-
-- 🔭 I’m currently working on this page. 
+![Ravi](https://twitter.com/ravichar/photo)
 
 ```
 class SoftwareDeveloper:
