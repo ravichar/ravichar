@@ -1,16 +1,25 @@
 ### Hi there 👋
 
 <!--
-**ravichar/ravichar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+class SoftwareDeveloper:
+    def __init__(self):
+        self.name = "Ravi Char"
+        self.languages = ["Python", "Java", "C"]
+        self.tools = ["Git", "IDEA", "Metasploit"]
+        self.interests = ["Software Development", "Cybersecurity", "AI"]
+        self.hobbies = ["Bansuri", "Roller Skating", "Skiing", "Reading"] 
 
-Here are some ideas to get you started:
+    def greet(self):
+        print("Hi there! 👋 I'm Ravi Char, a Software Developer.")
+        print("I'm passionate about coding and here are some of my details:")
+        print(f"- Languages: {', '.join(self.languages)}")
+        print(f"- Tools: {', '.join(self.tools)}")
+        print(f"- Interests: {', '.join(self.interests)}")
+        print(f"- Hobbies: {', '.join(self.hobbies)}")
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# Create an instance of the SoftwareDeveloper class
+developer = SoftwareDeveloper()
+
+# Call the greet method
+developer.greet()
 -->
